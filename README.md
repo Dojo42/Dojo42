@@ -16,11 +16,11 @@ I want to learn to code, to have an professionnal evolution.
 - Push_swap
   
 - Minitalk
-
-### The projects I'm working on
   
 - so_long
 
+### The projects I'm working on
+  
 - Minishell 
 <!--
 **Dojo42/Dojo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
