@@ -19,9 +19,9 @@ I want to learn to code, to have an professionnal evolution.
   
 - so_long
 
+- Minishell  
+
 ### The projects I'm working on
-  
-- Minishell
 
 - Philosopher
 <!--
