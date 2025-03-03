@@ -19,11 +19,13 @@ I want to learn to code, to have an professionnal evolution.
   
 - so_long
 
-- Minishell  
+- Minishell
+
+- Philosopher
 
 ### The projects I'm working on
 
-- Philosopher
+
 <!--
 **Dojo42/Dojo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
