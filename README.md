@@ -23,9 +23,9 @@ I want to learn to code, to have an professionnal evolution.
 
 - Philosopher
 
-### The projects I'm working on
+- NetPractice
 
-- NetPractice (Evaluation)
+### The projects I'm working on
 
 - Cub3d (started)
 
