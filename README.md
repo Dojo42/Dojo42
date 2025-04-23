@@ -25,12 +25,19 @@ I want to learn to code, to have an professionnal evolution.
 
 - NetPractice
 
+- CPP Module 00
+
 ### The projects I'm working on
 
 - Cub3d (Evaluation in progress)
-- CPP Module 00 (Evaluation in progress)
+  
 - CPP Module 01 (Evaluation in progress)
-- CPP module 02 (Started)
+  
+- CPP module 02 (Evaluation in progress)
+  
+- CPP module 03 (Evaluation in progress)
+  
+- CPP module 04 (Started)
 
 <!--
 **Dojo42/Dojo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
