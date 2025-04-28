@@ -27,11 +27,11 @@ I want to learn to code, to have an professionnal evolution.
 
 - CPP Module 00
 
+- CPP Module 01
+
 ### The projects I'm working on
 
 - Cub3d (Evaluation in progress)
-  
-- CPP Module 01 (Evaluation in progress)
   
 - CPP module 02 (Evaluation in progress)
   
