@@ -29,13 +29,13 @@ I want to learn to code, to have an professionnal evolution.
 
 - CPP Module 01
 
+- CPP module 02 
+
+- CPP module 03 
+
 ### The projects I'm working on
 
 - Cub3d (Evaluation in progress)
-  
-- CPP module 02 (Evaluation in progress)
-  
-- CPP module 03 (Evaluation in progress)
   
 - CPP module 04 (Evaluation in progress)
 
