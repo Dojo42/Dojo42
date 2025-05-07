@@ -43,7 +43,9 @@ I want to learn to code, to have an professionnal evolution.
 
 - CPP module 06 (Evaluation un progress)
 
-- CPP module 07 (started)
+- CPP module 07 (Evaluation un progress)
+
+- CPP module 08 (started)
 
 <!--
 **Dojo42/Dojo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
