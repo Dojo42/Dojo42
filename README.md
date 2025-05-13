@@ -33,20 +33,21 @@ I want to learn to code, to have an professionnal evolution.
 
 - CPP module 03
 
-- CPP module 04 (Evaluation in progress)
+- CPP module 04
+
+- Cub3d
 
 ### The projects I'm working on
 
-- Cub3d (Evaluation in progress)
-
 - CPP module 05 (Evaluation in progress)
 
-- CPP module 06 (Evaluation un progress)
+- CPP module 06 (Evaluation in progress)
 
-- CPP module 07 (Evaluation un progress)
+- CPP module 07 (Evaluation in progress)
 
-- CPP module 08 (started)
+- CPP module 08 (Evaluation in progress)
 
+- CPP module 09 (started)
 <!--
 **Dojo42/Dojo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
