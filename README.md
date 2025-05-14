@@ -35,11 +35,11 @@ I want to learn to code, to have an professionnal evolution.
 
 - CPP module 04
 
+- CPP module 05
+
 - Cub3d
 
 ### The projects I'm working on
-
-- CPP module 05 (Evaluation in progress)
 
 - CPP module 06 (Evaluation in progress)
 
