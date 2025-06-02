@@ -41,11 +41,11 @@ I want to learn to code, to have an professionnal evolution.
 
 - CPP module 07
 
+- CPP module 08
+
 - Cub3d
 
 ### The projects I'm working on
-
-- CPP module 08 (Evaluation in progress)
 
 - CPP module 09 (started)
 
