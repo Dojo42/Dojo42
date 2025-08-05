@@ -49,7 +49,7 @@ I want to learn to code, to have an professionnal evolution.
 
 - CPP module 09 (Evaluation started)
 
-- inception (started)
+- inception (Evaluation started)
 
 - webserv (started)
 <!--
