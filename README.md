@@ -45,11 +45,11 @@ I want to learn to code, to have an professionnal evolution.
 
 - Cub3d
 
+- inception
+
 ### The projects I'm working on
 
 - CPP module 09 (Evaluation started)
-
-- inception (Evaluation started)
 
 - webserv (started)
 <!--
