@@ -47,11 +47,11 @@ I want to learn to code, to have an professionnal evolution.
 
 - inception
 
+- CPP module 09
+
 ### The projects I'm working on
 
-- CPP module 09 (Evaluation started)
-
-- webserv (started)
+- webserv (evaluation started)
 <!--
 **Dojo42/Dojo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
