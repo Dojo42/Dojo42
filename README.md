@@ -53,7 +53,7 @@ I want to learn to code, to have an professionnal evolution.
 
 ### The projects I'm working on
 
-- Transcandence (started)
+- Transcendence(started)
 <!--
 **Dojo42/Dojo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
